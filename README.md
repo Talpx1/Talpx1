@@ -1,4 +1,4 @@
-$talpx1 = [<br>
+'$talpx1 = [<br>
   'mood' => '🦧',<br>
   'nationality' => 'Italian 🇮🇹'<br>
   'programming_languages' => [<br>
@@ -8,5 +8,5 @@ $talpx1 = [<br>
       'Java ☕' => 'Minecraft Modding'<br>
     ],<br>
   ],<br>
-]<br>
+]<br>'
 
