@@ -6,7 +6,7 @@ $talpx1 = [
   '✉ email' => 'hello@simonecerruti.com',
   '⚙ programming_languages' => [
     '🐘 PHP' => ['Laravel', 'WordPress'],
-    '🟨 JS' => ['React ⚛️', 'TypeScript'],
+    '🟨 JS' => ['React ⚛️', 'Vue', 'TypeScript'],
   ],
 ];
 ```
